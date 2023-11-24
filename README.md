@@ -22,6 +22,13 @@ You can learn about:
 
 ![image](https://github.com/pmoschos/coloredNotes/assets/133533759/e59886f8-c6c9-4f0a-8a40-17cf06cd8f97)
 
+
 ---
-**Author:** Panagiotis Moschos :boy:  
+
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
+<p align="center">
+  Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
+</p>
+
 **Date:** 26-06-2023  
