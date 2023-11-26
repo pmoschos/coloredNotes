@@ -1,4 +1,4 @@
-# coloredNotes
+# Colored Notes Android App
 
 This is a simple Adnroid App whitch contains connection with firebase.
 Allows users to register and login.
