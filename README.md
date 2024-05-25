@@ -30,5 +30,3 @@ You can learn about:
 <p align="center">
   Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
 </p>
-
-**Date:** 26-06-2023  
